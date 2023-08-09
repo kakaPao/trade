@@ -20,11 +20,7 @@
 # 這裡可以提供安裝或設定的指令
 ```
 
-## 貢獻
-
-歡迎所有對此專案有興趣的開發者參與貢獻！請確保閱讀[貢獻指南](CONTRIBUTING.md)以了解如何開始。
-
 ## 聯絡
 
-若有任何問題或建議，請透過 [Issues](https://github.com/your_repo_link/issues) 或 email 提供反饋。
+若有任何問題或建議，請透過 [Issues](https://github.com/kakaPao/trade/issues) 或 email 提供反饋。
 
